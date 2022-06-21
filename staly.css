@@ -2,7 +2,7 @@
 
 *{
     box-sizing: border-box;
-    color: rgb(146, 24, 3);
+    color: rgb(64, 74, 216);
 }
 body{height: 100vh;
     width: 100vw;
@@ -13,7 +13,13 @@ body{height: 100vh;
     margin: 0;
     font-family: 'Poppins';
     background-image:url(lulu.jpg);
-    background-size: cover  /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
+    background-size: cover
+    
+}
+h1{
+    font-weight: normal;
+    font-size: 4rem;
     margin-top: 4.5rem;
 }
 .timer-geral{
