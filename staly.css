@@ -13,12 +13,7 @@ body{height: 100vh;
     margin: 0;
     font-family: 'Poppins';
     background-image:url(lulu.jpg);
-    background-repeat: no-repeat;
-    
-}
-h1{
-    font-weight: normal;
-    font-size: 4rem;
+    background-size: cover  /* background-repeat: no-repeat; */
     margin-top: 4.5rem;
 }
 .timer-geral{
