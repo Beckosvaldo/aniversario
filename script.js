@@ -3,7 +3,7 @@ const horasEl = document.getElementById("horas")
 const minEl = document.getElementById("min")
 const segEl = document.getElementById("seg")
 
-const newYears = "4 aug 2022";
+const newYears = "4 aug 2023";
 function contadoAno(){
     
     const newYearsdate = new Date(newYears);
